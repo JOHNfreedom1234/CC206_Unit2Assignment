@@ -1,6 +1,6 @@
 # flutter_application_github
 
-A new Flutter project.
+A new Flutter project. Uploaded to github as per the instructions
 
 ## Getting Started
 
